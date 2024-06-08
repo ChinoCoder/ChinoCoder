@@ -1,7 +1,5 @@
 # Hi, I'm Iván Ostrowski 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChinoCoder&style=flat-square&color=blue)
-
 I'm currently studying **Software Engineering** and working as a **Fullstack Developer**. My primary focus is on web development, with a strong inclination towards front-end work. I've also delved into UI/UX design and have some experience in back-end development and system design.
 
 ## 💻 Areas of Expertise
@@ -13,15 +11,23 @@ I'm currently studying **Software Engineering** and working as a **Fullstack Dev
 ## 🛠️ Languages and Tools
 
 ### Most Used:
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Java, Kotlin
-- **Frameworks/Tools:** React, React Redux
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+- <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> Kotlin
 
 ### Familiar With:
-- **Languages:** Python, SQL
-- **Tools:** Docker, Gradle
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+- <img src="https://img.icons8.com/fluency/48/000000/sql.png"/> SQL
+- <img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker
+- <img src="https://img.icons8.com/color/48/000000/gradle.png"/> Gradle
 
 ### Basic Understanding:
-- **Languages:** Rust, Haskell
+- <img src="https://img.icons8.com/color/48/000000/rust.png"/> Rust
+- <img src="https://img.icons8.com/color/48/000000/haskell.png"/> Haskell
+
 
 ## 🚀 Notable Projects
 
@@ -50,8 +56,6 @@ I believe in enjoying what I do and continuously learning and growing. My goal i
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinoCoder&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoCoder&layout=compact&theme=radical)
 
 ## 📫 Contact and Connect
 
