@@ -37,10 +37,6 @@ I'm currently studying **Software Engineering** and working as a **Fullstack Dev
 
 I believe in enjoying what I do and continuously learning and growing. My goal is to keep exploring and having fun with every new project and challenge.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinoCoder&show_icons=true&theme=radical)
-
 ## 📫 Contact and Connect
 
 Feel free to reach out or connect with me:
@@ -49,4 +45,4 @@ Feel free to reach out or connect with me:
 
 ---
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! (-◡-)v
