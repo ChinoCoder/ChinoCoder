@@ -17,7 +17,7 @@ I'm currently studying **Software Engineering** and working as a **Fullstack Dev
 
 1. **Video Game Item Exchange Platform** (March 2023 - July 2023)
    - Developed a web platform for video game item exchanges with classmates. I focused on Frontend development and contributed to the Backend.
-   - [View Project on GitHub](https://github.com/EmiLopez23/Lab1)
+   - [font-end](https://github.com/EmiLopez23/Lab1Frontend) - [back-end](https://github.com/EmiLopez23/Lab1)
 
 2. **Vehicle Auction Website** (August 2023 - December 2023)
    - Fully developed and deployed a vehicle auction website with a team, using JavaScript and React Redux.
