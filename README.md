@@ -23,8 +23,8 @@ I'm currently studying **Software Engineering** and working as a **Fullstack Dev
    - Fully developed and deployed a vehicle auction website with a team, using JavaScript and React Redux.
    - [View Project on GitHub](https://github.com/Bid4Wheels/Bid4WheelsFront)
 
-3. **Google Apps Scripts Extension for Excel**
-   - At my current job, I significantly contributed to a fully-fledged app running as an Excel extension through Google Apps Scripts, enhancing features and starting a migration to React.
+3. **Google Apps Scripts Extension for Google Sheets**
+   - At my current job, I significantly contributed to a fully-fledged app running as Sheets extension through Google Apps Scripts, migrating the entire front-end repository to React, enhancing features and diving into the back-end to aid on the development of the development of the entire data cycle.
 
 ## 🎸 Personal Interests
 
