@@ -1,35 +1,36 @@
-# 👋 Hi, I'm Iván Ostrowski
+# Hey, I'm Iván 👋
 
-I'm a **Front-end-focused Full-Stack Developer** and **Software Engineering student** based in Buenos Aires, Argentina.  
-I specialize in **React and TypeScript**, crafting scalable web applications and clean, intuitive interfaces that enhance user experience.  
-Currently, I work at **Detrics**, a SaaS startup that builds Google Sheets extensions for digital-marketing automation.
+Fullstack Developer and Software Engineer based in Buenos Aires, Argentina.
+I've spent the last couple of years building across two products simultaneously:
+[Detrics](https://detrics.io), a marketing data aggregation platform serving 20,000+ users across LATAM, and Hike, a tech & AI solutions division — while finishing my degree in Software Engineering. Now doing both full-time.
 
-## 💻 Technical Skills
+I lean toward frontend but I'm comfortable across the stack. I pick up new technologies quickly and I'm most engaged when the problems are interesting and the answer isn't obvious.
 
-**Front-End:** React.js · TypeScript / JavaScript · Astro · HTML · CSS · Figma  
-**Back-End:** Node.js · SQL · Python · Java · API Integration · Postman  
-**Tools & Workflow:** Git · Docker · Bash · CI/CD · GitHub Workflows · Issue Trackers  
-**Other:** AI for Development & Automation (GPT · Copilot · Claude · Gemini)
+---
 
-## 🚀 Experience
+## 🛠 Tech I work with
 
-### **Detrics — Junior Full-Stack Developer (Apr 2024 – Present)**
-- Migrated the main front-end from vanilla JS to React and TypeScript, improving structure and maintainability.  
-- Built a dashboard web app from scratch to monitor and manage user data.  
-- Maintained and redesigned the Webflow marketing site, later migrating it to **Astro** for scalability.  
-- Extended the backend with new APIs (Node.js + TypeScript) and improved internal workflows with **Figma**-based design systems.
+**Frontend:** React.js · TypeScript / JavaScript · Astro · React Native (Expo) · HTML · CSS · Figma  
+**Backend:** Node.js · Python · Java · SQL · REST API Integration  
+**Cloud & Infra:** GCP · Firebase / Firestore · BigQuery · Docker · Airbyte · Google Apps Script  
+**Dev Tools:** Git · Postman · CI/CD · GitHub Workflows · Bash  
+**AI & Automation:** Claude · Gemini · ChatGPT · Copilot · Google AI Studio  
 
-## 🧩 Projects
+---
 
-### **Sonora — Music Collection Web App (University Project, 2025)**
-- Co-led the concept and planning of a full-stack app inspired by Letterboxd, focused on music reviews and sharing.  
-- Managed planning, cost estimation, and sprint organization.  
-- Mentored a team of junior developers and supervised UI implementation for design coherence.
+## 💼 What I've been building
 
-## 🌱 About Me
-Curious by nature and passionate about problem-solving, I enjoy combining technical precision with design thinking.  
-Outside of code, you’ll find me exploring **UI/UX design**, gaming or exploring new music.
+**@ Detrics** — Led the frontend migration from vanilla JS to React + TypeScript, built a user dashboard from scratch, expanded backend integrations, and migrated the marketing site from Webflow to Astro as the platform scaled to 20k+ users.
 
-## 📫 Let’s Connect
-- 📧 [ivostrowski@yahoo.com](mailto:ivostrowski@yahoo.com)  
-- 💼 [linkedin.com/in/ivanostrowski](https://linkedin.com/in/ivanostrowski)  
+**@ Hike** — Co-developing a natural language analytics chatbot that lets teams query BigQuery tables in plain English and get structured reports back. Also took over sole development of a React Native Android app for a car dealership that uses image analysis algorithms to validate vehicle photos against configurable angle templates.
+
+---
+
+## 🌱 About me
+
+Curious by nature. I like building things that are both well-made and actually useful, and I tend to go deep on whatever problem is in front of me.
+
+Outside of code: UI/UX, gaming, music, and astrophysics.
+
+📧 [ivostrowski@yahoo.com](mailto:ivostrowski@yahoo.com)  
+💼 [LinkedIn](https://linkedin.com/in/ivanostrowski)
